@@ -26,20 +26,20 @@ Project Demo:
 
 <br>
   <div align=left>Application Icon<br>
-  <div align=center><img width="200" height="300" src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/1.PNG"/><br>
+  <div align=center><img src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/1.PNG"/><br>
     
 <br>
    <div align=left>Application Home Page<br>
-   <div align=center><img width="200" height="300" src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/2.PNG"/><br>
+   <div align=center><img src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/2.PNG"/><br>
    <div align=left>
 
 <br>
    <div align=left>Application Home Page<br>
-   <div align=center><img width="200" height="300" src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/3.PNG"/><br>
+   <div align=center><img src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/3.PNG"/><br>
    <div align=left>
     
 <br>
    <div align=left>Application Home Page<br>
-   <div align=center><img width="200" height="300" src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/4.PNG"/><br>
+   <div align=center><img src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/4.PNG"/><br>
    <div align=left>    
 
