@@ -4,7 +4,7 @@ Bayside Biosciences Inc. cell counter project
 -
 Description:
 -
-A project used opencv to help biology Scientist to track the cell numbers in order to analysis how the drug effect the cells. There are two type of the cells, one of the cell had the regular and smooth cell wall so this one without deal noice after thresholding processes and anothe one had irregular cell morphology so it needed to deal with the noise.
+A project used opencv to help biology scientists to track the cell numbers in order to analysis how the drug effect the cells. There are two type of the cells, one of the cell had the regular and smooth cell wall so this one without deal noice after thresholding processes and anothe one had irregular cell morphology so it needed to deal with the noise. This project saved biology scientists a lot of time to count the cell numbers and made converience for them because the camera was took pictures automation and it was avoid people forgot to check the time points.
 
 Tools and Knowledge:
 -
@@ -49,6 +49,6 @@ Graph external driver for drawing the analysis graph: https://www.qcustomplot.co
 
 Developer
 -
-All rights reversed by Bayside Biosciences Inc., Santa Clara, CA  2018
+All rights reversed by Bayside Biosciences Inc.(Jay Zheng), Santa Clara, CA  2018
 
 
