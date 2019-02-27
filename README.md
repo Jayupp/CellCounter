@@ -25,21 +25,30 @@ Project Demo:
 -
 
 <br>
-  <div align=left>Application Icon<br>
+  <div align=left>Main page for type 1 cell<br>
   <div align=center><img src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/1.PNG"/><br>
     
 <br>
-   <div align=left>Application Home Page<br>
+   <div align=left>Main page for type 2 cell<br>
    <div align=center><img src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/2.PNG"/><br>
    <div align=left>
 
 <br>
-   <div align=left>Application Home Page<br>
+   <div align=left>Type 1 cell analysis<br>
    <div align=center><img src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/3.PNG"/><br>
    <div align=left>
     
 <br>
-   <div align=left>Application Home Page<br>
+   <div align=left>Type 2 cell analysis<br>
    <div align=center><img src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/4.PNG"/><br>
    <div align=left>    
+
+Source:
+-
+Graph external driver for drawing the analysis graph: https://www.qcustomplot.com/
+
+Developer
+-
+All rights reversed by Bayside Biosciences Inc., Santa Clara, CA  2018
+
 
