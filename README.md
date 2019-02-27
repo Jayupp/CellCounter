@@ -16,8 +16,30 @@ Project Processes:
 1. Built and developed the image analysis parts.</br>
 2. GUI design and set up the componments to support the user experiences.</br>
 3. Assemblied the code and the UI design to make as unit.</br>
-4. Tested the software and analysis the error</br>
+4. Tested the software and analysis the error.</br>
 
 
- 
+
+
+Project Demo:
+-
+
+<br>
+  <div align=left>Application Icon<br>
+  <div align=center><img width="200" height="300" src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/1.PNG"/><br>
+    
+<br>
+   <div align=left>Application Home Page<br>
+   <div align=center><img width="200" height="300" src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/2.PNG"/><br>
+   <div align=left>
+
+<br>
+   <div align=left>Application Home Page<br>
+   <div align=center><img width="200" height="300" src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/3.PNG"/><br>
+   <div align=left>
+    
+<br>
+   <div align=left>Application Home Page<br>
+   <div align=center><img width="200" height="300" src="https://github.com/Jayupp/CellCounter/blob/master/README_SOURCE/4.PNG"/><br>
+   <div align=left>    
 
